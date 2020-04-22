@@ -32,3 +32,6 @@ Then, place the file in the p1_navigation/ folder in the DRLND GitHub repository
 
 ## Step 3: Explore the environment
 After you have followed the instructions above, open `Navigation.ipynb` (located in the `p1_navigation/` folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
+
+# Instructions
+To run the code in the notebook, simply open it in Jupyter and run each cell in order. If you are using a local environment instead of the udacity workspace you can ignore the first cell.
