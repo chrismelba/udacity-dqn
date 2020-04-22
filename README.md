@@ -7,10 +7,11 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 The environment is considered solved if the agent can attain an average score of >13 for 100 consecutive episode. 
 
 My agents score
+
 ![Score over time and average](https://github.com/chrismelba/udacity-dqn/blob/master/Score-over-time.png)
 
 
-# installation
+# Installation
 
 ## Step 1: Clone the DRLND Repository
 Please follow the [instructions in the DRLND GitHub repository!](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in `README.md` at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
@@ -20,10 +21,10 @@ Please follow the [instructions in the DRLND GitHub repository!](https://github.
 ## Step 2: Download the Unity Environment
 For this project, you will not need to install Unity - this is because we have already built the environment for you, and you can download it from one of the links below. You need only select the environment that matches your operating system:
 
-    Linux: click [here!](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
-    Mac OSX: click [here!](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
-    Windows (32-bit): click [here!](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
-    Windows (64-bit): click [here!](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+Linux: click [here!](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+Mac OSX: click [here!](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+Windows (32-bit): click [here!](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+Windows (64-bit): click [here!](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
 Then, place the file in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
 
